@@ -1,0 +1,98 @@
+.bg-carousel-ba1 { 
+  background-image: url(../img/ba1.jpg);
+}
+
+.bg-carousel-ba2 {
+   background-image: url(../img/ba2.jpg); 
+}
+
+.bg-carousel-ba3 {
+   background-image: url(../img/ba3.jpg);
+  }
+
+.carousel-item {
+  background-size: cover;
+  background-position: center center;
+}
+.carousel-item svg { opacity: .5; }
+
+.carousel-caption {
+  bottom: 3rem;
+  z-index: 10;
+}
+
+.carousel-item {
+  height: 37rem;
+  min-height: 95vh;
+}
+.nav-link {
+    color: white;
+    text-decoration: none; 
+  }
+  
+  
+  .nav-link:hover {
+    color: green; 
+  }
+  
+ 
+  .nav-link:visited {
+    color: gray;
+  }
+  
+  .btn {
+    background-color: transparent;
+    border-color: white;
+    color: white; 
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn:hover {
+    background-color: green; 
+    border-color: green;
+    color: white; 
+  }
+
+  .btn:visited {
+    color: gray;
+  }
+  
+
+.custom-btn-color {
+    background-color: rgba(92, 168, 12, 0.673);
+    color: #fff;
+}
+
+@media (max-width: 768px) {
+  .texto {
+    font-size: 14px; 
+  }
+}
+
+@media (max-width: 480px) {
+  .texto  {
+    font-size: 12px; 
+  }
+}
+
+#main-footer{
+    background-color: rgb(38, 38, 64);
+}
+
+
+
+.titulo-gral {
+  text-align: center;
+  font-weight: 400;
+  text-transform: uppercase;
+  font-size: 1rem;
+}
+
+.titulo-gral span {
+  display: block;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+
+

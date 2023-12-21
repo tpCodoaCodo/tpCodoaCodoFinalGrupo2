@@ -15,5 +15,7 @@ La actividad consta de un proyecto en el cual se integre la parte de Back-end, e
 
 Link de youtube con funcionalidad de la aplicación: 
 
+https://www.youtube.com/watch?v=8PK5vvUWQDA
+
 
 
